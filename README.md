@@ -1,5 +1,5 @@
 
-![GamePlay](https://github.com/lorenasg1/nlw-gameplay/blob/main/assets/adaptive-icon.png?raw=true)
+<img src="https://github.com/lorenasg1/nlw-gameplay/blob/main/assets/adaptive-icon.png?raw=true" alt="Game Play" width="200">
 
 App to manage game matches.
 
