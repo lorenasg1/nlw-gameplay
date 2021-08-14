@@ -1,0 +1,17 @@
+import { MaterialCommunityIcons } from '@expo/vector-icons';
+import React from 'react';
+import { RectButton, RectButtonProps } from 'react-native-gesture-handler';
+import { theme } from '../../shared/styles/theme';
+import { styles } from './styles';
+
+export function ButtonAdd({ ...props }: RectButtonProps) {
+  return (
+    <RectButton style={styles.container} {...props}>
+      <MaterialCommunityIcons
+        name="plus"
+        color={theme.colors.heading}
+        size={24}
+      />
+    </RectButton>
+  );
+}
