@@ -1,5 +1,5 @@
 
-![GamePlay](https://github.com/lorenasg1/nlw-payflow/blob/main/assets/images/logofull.png?raw=true)
+![GamePlay](https://github.com/lorenasg1/nlw-gameplay/blob/main/assets/adaptive-icon.png?raw=true)
 
 App to manage game matches.
 
